@@ -10,6 +10,11 @@ This is an example app built using SwiftUI, demonstrating a simple table view im
 - Two-way binding between parent and child views
 - MVVM Architecture
 - API Call
+- Tab View
+
+## Screenshots
+![Uploading Simulator Screenshot - iPhone 14 Pro - 2023-07-05 at 01.22.42.png…]()
+
 
 ## Requirements
 
