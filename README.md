@@ -7,7 +7,6 @@ This is an example app built using SwiftUI, demonstrating a simple table view im
 ## Features
 
 - Displays a list of items in a table view
-- Supports adding, removing, and modifying items
 - Two-way binding between parent and child views
 
 ## Requirements
