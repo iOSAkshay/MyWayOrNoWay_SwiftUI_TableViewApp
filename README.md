@@ -13,7 +13,7 @@ This is an example app built using SwiftUI, demonstrating a simple table view im
 - Tab View
 
 ## Screenshots
-![Simulator Screenshot - iPhone 14 Pro](https://github.com/iOSAkshay/MyWayOrNoWay_SwiftUI_TableViewApp/assets/55749217/f4815b17-13ed-404d-a16b-7d607a8d2230)
+<img width="328" alt="Screenshot" src="https://github.com/iOSAkshay/MyWayOrNoWay_SwiftUI_TableViewApp/assets/55749217/1b7da79e-35b8-4090-8b3a-d0558aaeaf3d">
 
 
 ## Requirements
