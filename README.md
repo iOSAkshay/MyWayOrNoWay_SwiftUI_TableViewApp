@@ -8,6 +8,8 @@ This is an example app built using SwiftUI, demonstrating a simple table view im
 
 - Displays a list of items in a table view
 - Two-way binding between parent and child views
+- MVVM Architecture
+- API Call
 
 ## Requirements
 
