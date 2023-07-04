@@ -1,6 +1,6 @@
 # MyWayOrNoWay_SwiftUI_TableViewApp
 
-# SwiftUI App Example
+## SwiftUI App Example
 
 This is an example app built using SwiftUI, demonstrating a simple table view implementation with data passed from the parent view.
 
@@ -18,4 +18,4 @@ This is an example app built using SwiftUI, demonstrating a simple table view im
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/your/repo.git
+https://github.com/iOSAkshay/MyWayOrNoWay_SwiftUI_TableViewApp.git
